@@ -1,3 +1,9 @@
 
 $ git add.
 git status
+$ git remote add origin https://github.com/leticiaamaralc/teste1
+$ git push --set-upstream origin master
+
+
+
+teste
